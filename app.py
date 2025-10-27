@@ -8,7 +8,7 @@ app = Flask(__name__)
 def home():
     return {
         "message": "Welcome to the IPL API Service!",
-        "status": "running",
+        "status": "ok",
         "endpoints": ["/teams", "/teamvteam", "/team-record","/batting-record","/bowling-record"]
     }
 
