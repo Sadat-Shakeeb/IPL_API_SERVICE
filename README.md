@@ -65,8 +65,6 @@ These datasets together enable rich analysis of team performance, player stats, 
 | `/matches/<season>` | GET | Get all matches for a specific IPL season |
 | `/team/<team_name>` | GET | Get details or performance of a specific team |
 
-> *(You can modify this section to include any other routes you’ve added.)*
-
 ---
 
 ## 🧰 Installation and Setup
